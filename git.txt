@@ -1,3 +1,4 @@
+git add *
 git commit -m "first python scripts"
 git push origin master
 
